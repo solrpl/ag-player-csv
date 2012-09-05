@@ -1,0 +1,17 @@
+{	
+	"data" : {
+		"firstname" : {
+			"type" : "string"
+		},
+		"middlename" : {
+			"type" : "string"				
+		},
+		"lastname" : {
+			"type" : "string"
+		},
+		"email" : {
+			"type" : "string"
+		}
+	}
+}
+				
