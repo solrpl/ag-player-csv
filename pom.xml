@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pl.solr.ag</groupId>
 	<artifactId>ag-player-csv</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>CSV module for Action Generator</name>
 	<description>CSV module for Action Generator: https://github.com/sematext/ActionGenerator</description>
 	<url>http://solr.pl/</url>
